@@ -1,11 +1,7 @@
 Complete Walkthrough: Install McAfee Already Purchased on Windows 10, Windows 11, and MacOS
 ===========================================================================================
 
-If you have already purchased McAfee, the next step is to get it up and running on your device. Many users search for .. role:: blue
-   :class: blue
-
-:blue:`Install McAfee Already Purchased <https://mcafeedesk.securebase.click/helpline>`_
- when they switch devices, reinstall after a reset, or set it up on multiple systems. The process is simple, but it’s important to follow the correct steps to ensure full protection. Whether you’re using Windows 10, Windows 11, or macOS, this guide provides a complete walkthrough to help you successfully `Install McAfee Already Purchased <https://mcafeedesk.securebase.click/helpline>`_. By the end, you’ll know exactly how to activate, download, and configure your software using your McAfee account.
+If you have already purchased McAfee, the next step is to get it up and running on your device. Many users search for `Install McAfee Already Purchased <https://mcafeedesk.securebase.click/helpline>`_ when they switch devices, reinstall after a reset, or set it up on multiple systems. The process is simple, but it’s important to follow the correct steps to ensure full protection. Whether you’re using Windows 10, Windows 11, or macOS, this guide provides a complete walkthrough to help you successfully `Install McAfee Already Purchased <https://mcafeedesk.securebase.click/helpline>`_. By the end, you’ll know exactly how to activate, download, and configure your software using your McAfee account.
 
 Why Install McAfee Already Purchased?
 -------------------------------------
